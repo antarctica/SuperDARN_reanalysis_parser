@@ -141,3 +141,4 @@ hybrid_model_plasma_velocity_east_component = hybrid_model_plasma_velocity_east_
 % the region of coverage. 
 
 disp('... model constructed. Program complete.')
+disp('Refer to code comments at the end of this MATLAB script for details.')
